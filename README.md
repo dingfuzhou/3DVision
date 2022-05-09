@@ -23,7 +23,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
 ----------------------------------
 # 1. Lidar based 3D Object Detection <a name="1"></a>  
 ## 1.1 Point Cloud based<a name="1.1"></a>
-  - Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
+  - Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds; [[Paper]](https://arxiv.org/pdf/2203.11139.pdf)  
 ## 1.2 Voxel based<a name="1.2"></a>  
   - DETR based object detectors, such as:  
   -End-to-End Object Detection with Transformers. [[Paper]](https://arxiv.org/pdf/2005.12872.pdf)  
