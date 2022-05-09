@@ -8,15 +8,13 @@ This repository provides an up-to-date list of 3D Object Detection works.
     1.1 [Point Cloud based](#1.1)  
     1.2 [Voxel based](#1.2)  
 2. [Camera based 3D Object Detection](#2)  
-	2.1 [Classical Classification Losses](#2.1)  
-	2.2  [Sampling-based Approaches](#2.2)  
-	2.3  [Re-weighting-based Approaches](#2.3)  
-	2.4  [Gradient-based Approaches](#2.4)  
-	2.5  [Ranking-based Approaches](#2.5)  
+	2.1 [xxxxxx](#2.1)  
+	2.2  [xxxxxx](#2.2)  
+	2.3  [xxxxx](#2.3)   
 3. [Fusion based 3D Object Detection](#3)  
-	3.1 [Scale Imbalance Issue](#3.1)  
-	3.2 [Optimization Issue](#3.2)  
-	3.3 [Outlier Problem](#3.3)  
+	3.1 [xxxxx](#3.1)  
+	3.2 [xxxxx](#3.2)  
+	3.3 [xxxxx](#3.3)  
 
 
 
