@@ -14,9 +14,9 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 	2.3 [Semantic Segmentation](#2.3)   
 	2.4 [Video-based Approaches](#2.4)  
 3. [Online/Offline HD Map Construction](#3)  
-	3.1 [xxxxx](#3.1)  
-	3.2 [xxxxx](#3.2)  
-	3.3 [xxxxx](#3.3)  
+	3.1 [Lane-based SLAM](#3.1)  
+	3.2 [Lane marks Detection](#3.2)  
+	3.3 [Road Reconstruction](#3.3)  
 
 
 
