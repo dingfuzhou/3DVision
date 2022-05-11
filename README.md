@@ -33,6 +33,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
   - SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2104.09804.pdf), [[Code]](https://github.com/Vegeta2020/SE-SSD) 
   - Voxel R-CNN:Towards High Performance Voxel-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2012.15712.pdf), [[Code]](https://github.com/djiajunustc/Voxel-R-CNN)
+  - 3DSSD: Point-based 3D Single Stage Object Detector; [[Paper]](https://arxiv.org/pdf/2002.10187.pdf), [[Code]](https://github.com/dvlab-research/3DSSD)
 
 
 
