@@ -38,8 +38,6 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) 
  
-
-
 ## 1.2 Voxel based<a name="1.2"></a>  
   - Voxel based 3D object detections  
 
@@ -50,3 +48,10 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2106.13365.pdf) 
   - RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation; [[Paper]](https://arxiv.org/pdf/2009.00206.pdf) 
   - Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2204.06577.pdf) 
+
+# 2 Instance and Semantic Segmentation <a name="2"></a>   
+## 2.1 Datasets<a name="1.1"></a>   
+## 2.2 Instance Segmentation<a name="1.2"></a>   
+## 2.3 Semantic Segmentation<a name="1.3"></a>   
+## 2.4 Video-based Approaches<a name="1.4"></a>   
+
