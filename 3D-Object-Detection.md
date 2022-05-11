@@ -9,6 +9,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
     1.3 [Range Image based](#1.3)  
     1.4 [Detection and Tracking](#1.4)  
     1.5 [Graph based](#1.5)  
+    1.6 [Ground Plane Detection](#1.6)  
 2. [Camera based 3D Object Detection](#2)  
 	2.1 [xxxxxx](#2.1)  
 	2.2  [xxxxxx](#2.2)  
@@ -60,5 +61,13 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Grid-GCN for Fast and Scalable Point Cloud Learning; [[Paper]](https://arxiv.org/pdf/1912.02984.pdf) [[Code]](https://github.com/Xharlie/Grid-GCN)
   - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud; [[Paper]](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code]](https://github.com/WeijingShi/Point-GNN)
   - Dynamic Graph CNN for Learning on Point Clouds; [[Paper]](https://arxiv.org/pdf/1801.07829.pdf) [[Code]](https://github.com/WangYueFt/dgcnn)
+
+## 1.6 Ground Plane Detection<a name="1.6"></a>    
+  - GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles; [[Paper]](https://hal.inria.fr/hal-02927350/document) [[Code]](https://github.com/anshulpaigwar/GndNet)
+  - How to Build a Curb Dataset with LiDAR Data for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2110.03968.pdf) [[Dataset]](https://download.mindspore.cn/)
+  - CurbScan: Curb Detection and Tracking Using Multi-Sensor Fusion; [[Paper]](https://arxiv.org/pdf/2010.04837.pdf) [[Dataset]](https://download.mindspore.cn/)
+
+
+
 
   
