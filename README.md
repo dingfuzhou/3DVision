@@ -32,8 +32,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) [[Code]](https://github.com/yifanzhang713/IA-SSD)
   - Focal Sparse Convolutional Networks for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2204.12463) [[Code]](https://github.com/dvlab-research/FocalsConv)
   - LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.14956.pdf) [[Code]](https://github.com/weiyithu/LiDAR-Distillation)
-  - Point Density-Aware Voxels for LiDAR 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf)  
-  - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf)  
+  - Point Density-Aware Voxels for LiDAR 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) [[Code]](https://github.com/TRAILab/PDV)
+  - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) [[Code]](https://github.com/dschinagl/occam)
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
  
 
