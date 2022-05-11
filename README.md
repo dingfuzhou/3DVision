@@ -30,6 +30,10 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.14956.pdf)  
   - Point Density-Aware Voxels for LiDAR 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf)  
   - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf)  
+  - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
+  - SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2104.09804.pdf), [[Code]](https://github.com/Vegeta2020/SE-SSD) 
+
+
 
 ## 1.2 Voxel based<a name="1.2"></a>  
   - Voxel based 3D object detections  
