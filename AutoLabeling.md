@@ -5,9 +5,9 @@ This repository provides an up-to-date list of techniques used for autolabeling 
  
 =============================
 # Table of contents
-1. [SLAM Techniques](#1)  
-    1.1 [Point Cloud based](#1.1)  
-    1.2 [Voxel based](#1.2)  
+1. [3D Reconstruction Techniques](#1)  
+    1.1 [SLAM Techniques](#1.1)  
+    1.2 [Structure from Motion](#1.2)  
     1.3 [Range Image based](#1.3)  
 2. [Instance and Semantic Segmentation](#2)  
 	2.1 [xxxxxx](#2.1)  
