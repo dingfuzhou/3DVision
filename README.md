@@ -34,6 +34,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.14956.pdf) [[Code]](https://github.com/weiyithu/LiDAR-Distillation)
   - Point Density-Aware Voxels for LiDAR 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) [[Code]](https://github.com/TRAILab/PDV)
   - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) [[Code]](https://github.com/dschinagl/occam)
+  - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.02205.pdf) [[Code]](https://github.com/Xharlie/BtcDet) 
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
  
 
