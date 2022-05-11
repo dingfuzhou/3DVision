@@ -35,8 +35,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.02205.pdf) [[Code]](https://github.com/Xharlie/BtcDet) 
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) 
-  - Grid-GCN for Fast and Scalable Point Cloud Learning; [[Paper]](https://arxiv.org/pdf/1912.02984.pdf) [[Code]](https://github.com/Xharlie/Grid-GCN)
-  - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud; [[Paper]](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code]](https://github.com/WeijingShi/Point-GNN)
+  
  
 
 
@@ -57,5 +56,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds; [[Paper]](https://arxiv.org/pdf/2203.01730.pdf) [[Code]](https://github.com/Ghostish/Open3DSOT)
   - TPCN: Temporal Point Cloud Networks for Motion Forecasting; [[Paper]](https://arxiv.org/pdf/2103.03067.pdf)
   - PointTrackNet: An End-to-End Network for 3-D Object Detection and Tracking from Point Clouds; [[Paper]](https://arxiv.org/pdf/2002.11559.pdf) 
+ ## 1.5 Graph based<a name="1.5"></a>  
+  - Grid-GCN for Fast and Scalable Point Cloud Learning; [[Paper]](https://arxiv.org/pdf/1912.02984.pdf) [[Code]](https://github.com/Xharlie/Grid-GCN)
+  - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud; [[Paper]](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code]](https://github.com/WeijingShi/Point-GNN)
 
   
