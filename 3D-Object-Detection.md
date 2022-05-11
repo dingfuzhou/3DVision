@@ -8,6 +8,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
     1.2 [Voxel based](#1.2)  
     1.3 [Range Image based](#1.3)  
     1.4 [Detection and Tracking](#1.4)  
+    1.5 [Graph based](#1.5)  
 2. [Camera based 3D Object Detection](#2)  
 	2.1 [xxxxxx](#2.1)  
 	2.2  [xxxxxx](#2.2)  
