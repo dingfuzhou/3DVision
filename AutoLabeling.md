@@ -11,7 +11,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 2. [Instance and Semantic Segmentation](#2)  
 	2.1 [Datasets](#2.1)  
 	2.2 [Instance Segmentation](#2.2)  
-	2.3 [Semantic Segmentation](#2.3) 
+	2.3 [Semantic Segmentation](#2.3)   
 	2.4 [Video-based Approaches](#2.4)  
 3. [Online/Offline HD Map Construction](#3)  
 	3.1 [xxxxx](#3.1)  
