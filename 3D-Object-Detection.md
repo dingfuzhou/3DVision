@@ -48,6 +48,11 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation; [[Paper]](https://arxiv.org/pdf/2009.00206.pdf) 
   - Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2204.06577.pdf) 
 
-## 1.4 Detection and Tracking<a name="1.4"></a>  
+## 1.4 Detection and Tracking<a name="1.4"></a>    
+  - Exploring Simple 3D Multi-Object Tracking for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2108.10312.pdf) [[Code]](https://github.com/qcraftai/simtrack)
+  - TPCN: Temporal Point Cloud Networks for Motion Forecasting; [[Paper]](https://arxiv.org/pdf/2103.03067.pdf)
+  - You Don't Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking;  [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_You_Dont_Only_Look_Once_Constructing_Spatial-Temporal_Memory_for_Integrated_ICCV_2021_paper.pdf) [[Code]](https://github.com/zju3dv/UDOLO)
+  - PointTrackNet: An End-to-End Network for 3-D Object Detection and Tracking from Point Clouds; [[Paper]](https://arxiv.org/pdf/2002.11559.pdf) 
+  - Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds; [[Paper]](https://arxiv.org/pdf/2203.01730.pdf) [[Code]](https://github.com/Ghostish/Open3DSOT)
 
   
