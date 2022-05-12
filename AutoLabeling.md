@@ -17,6 +17,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 	3.1 [Lane-based SLAM](#3.1)  
 	3.2 [Lane marks Detection](#3.2)  
 	3.3 [Road Reconstruction](#3.3)  
+	4.3 [Road Change Detection](#3.4)  
 
 
 
@@ -47,4 +48,14 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 ## 2.2 Instance Segmentation<a name="2.2"></a>   
 ## 2.3 Semantic Segmentation<a name="2.3"></a>   
 ## 2.4 Video-based Approaches<a name="2.4"></a>   
+
+# 3 Instance and Semantic Segmentation <a name="3"></a>   
+## 3.1 Lane-based SLAM<a name="3.1"></a>   
+## 3.2 Lane marks Detection<a name="3.2"></a>   
+## 3.3 Road Reconstruction<a name="3.3"></a>   
+## 3.4 Road Change Detection<a name="3.4"></a> 
+- Street-View Change Detection with Deconvolutional Networks; [[Paper]](https://www.researchgate.net/publication/304533064_Street-View_Change_Detection_with_Deconvolutional_Networks) [[Video]](https://www.youtube.com/watch?v=nPviZ8Ug32Y)
+ 
+
+
 
