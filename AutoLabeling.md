@@ -54,7 +54,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 ## 3.2 Lane marks Detection<a name="3.2"></a>   
 ## 3.3 Road Reconstruction<a name="3.3"></a>   
 ## 3.4 Road Change Detection<a name="3.4"></a> 
-- Street-View Change Detection with Deconvolutional Networks; [[Paper]](https://www.researchgate.net/publication/304533064_Street-View_Change_Detection_with_Deconvolutional_Networks) [[Video]](https://www.youtube.com/watch?v=nPviZ8Ug32Y)
+- Street-View Change Detection with Deconvolutional Networks; [[Paper]](https://www.researchgate.net/publication/304533064_Street-View_Change_Detection_with_Deconvolutional_Networks) [[Video]](https://www.youtube.com/watch?v=nPviZ8Ug32Y)  [[Project]](https://mscvprojects.ri.cmu.edu/2020teamg/project/)
+
  
 
 
