@@ -38,6 +38,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) 
   - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds; [[Code]](https://github.com/maudzung/SFA3D) 
+  - Identifying Unknown Instances for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/1910.11296.pdf) 
   
  
 
@@ -68,6 +69,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles; [[Paper]](https://hal.inria.fr/hal-02927350/document) [[Code]](https://github.com/anshulpaigwar/GndNet)
   - How to Build a Curb Dataset with LiDAR Data for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2110.03968.pdf) [[Dataset]](https://download.mindspore.cn/)
   - CurbScan: Curb Detection and Tracking Using Multi-Sensor Fusion; [[Paper]](https://arxiv.org/pdf/2010.04837.pdf) [[Dataset]](https://download.mindspore.cn/)
+  - Lidar-histogram for fast road and obstacle detection; [[Paper]](https://ieeexplore.ieee.org/document/7989159)
 
 
 
