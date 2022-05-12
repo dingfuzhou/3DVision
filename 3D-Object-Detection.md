@@ -34,6 +34,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) [[Code]](https://github.com/dschinagl/occam)
   - Pillar-based Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2007.10323.pdf) [[Code]](https://github.com/WangYueFt/pillar-od) 
   - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.02205.pdf) [[Code]](https://github.com/Xharlie/BtcDet) 
+  - An LSTM Approach to Temporal3D Object Detection in LiDAR P oint Clouds; [[Paper]](https://arxiv.org/pdf/2007.12392.pdf) [[Code]](https://github.com/google-research/google-research/tree/master/tf3d) 
   - A VERSATILE MULTI-VIEW FRAMEWORK FOR LIDAR-BASED 3D OBJECT DETECTION WITH GUIDANCE FROM PANOPTIC SEGMENTATION [[Paper]](https://arxiv.org/pdf/2203.02133.pdf) 
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) 
   - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds; [[Code]](https://github.com/maudzung/SFA3D) 
