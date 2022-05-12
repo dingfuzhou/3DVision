@@ -39,6 +39,12 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Point2Seq: Detecting 3D Objects as Sequences; [[Paper]](https://arxiv.org/pdf/2203.13394.pdf) 
   - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds; [[Code]](https://github.com/maudzung/SFA3D) 
   - Identifying Unknown Instances for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/1910.11296.pdf) 
+  - Deep Multi-Sensor Lane Detection; [[Paper]](https://arxiv.org/pdf/1905.01555.pdf) 
+  - Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net; [[Paper]](https://arxiv.org/pdf/2012.12395.pdf) 
+  - PIXOR: Real-time 3D Object Detection from Point Clouds; [[Paper]](https://arxiv.org/pdf/1902.06326.pdf) 
+  - Efficient Convolutions for Real-Time Semantic Segmentation of 3D Point Clouds; [[Paper]](https://www.cs.toronto.edu/~urtasun/publications/zhang_etal_3dv18.pdf) 
+  - Open-set 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.01135.pdf) 
+  - ORDER: Open World Object Detectionon Road Scenes; [[Paper]](https://ml4ad.github.io/files/papers2021/ORDER:%20Open%20World%20Object%20Detection%20on%20Road%20Scenes.pdf) 
   
  
 
