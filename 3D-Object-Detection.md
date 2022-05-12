@@ -45,6 +45,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Efficient Convolutions for Real-Time Semantic Segmentation of 3D Point Clouds; [[Paper]](https://www.cs.toronto.edu/~urtasun/publications/zhang_etal_3dv18.pdf) 
   - Open-set 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.01135.pdf) 
   - ORDER: Open World Object Detectionon Road Scenes; [[Paper]](https://ml4ad.github.io/files/papers2021/ORDER:%20Open%20World%20Object%20Detection%20on%20Road%20Scenes.pdf) 
+  - Towards Open-Set Object Detection and Discovery; [[Paper]](https://arxiv.org/pdf/2204.05604.pdf) 
   
  
 
