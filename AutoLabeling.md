@@ -36,7 +36,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - OpenSfM; [[Website]](https://github.com/mapillary/OpenSfM)  
   - CMVS-PMVS; [[Website]](https://github.com/pmoulon/CMVS-PMVS)  
   - Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021, Best Student Paper Award); [[Website]](https://github.com/cvg/pixel-perfect-sfm)  
-  - Divide and Conquer: Efficient Large-Scale Structure from Motion Using Graph Partitioning [[Website]](https://www.researchgate.net/publication/283349206_Divide_and_Conquer_Efficient_Large-Scale_Structure_from_Motion_Using_Graph_Partitioning)
+  - Divide and Conquer: Efficient Large-Scale Structure from Motion Using Graph Partitioning [[Paper]](https://www.researchgate.net/publication/283349206_Divide_and_Conquer_Efficient_Large-Scale_Structure_from_Motion_Using_Graph_Partitioning)
 
 
 
