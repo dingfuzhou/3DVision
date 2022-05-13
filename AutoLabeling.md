@@ -30,7 +30,13 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   
  
 ## 1.2 Structure from Motion<a name="1.2"></a>  
-  - Voxel based 3D object detections  
+  - COLMAP; [[Project]](https://github.com/colmap/colmap)   
+  - openMVG; [[Project]](https://github.com/openMVG)  
+  - Awesome 3D reconstruction list; [[Website]](https://github.com/openMVG/awesome_3DReconstruction_list)    
+  - OpenSfM; [[Website]](https://github.com/mapillary/OpenSfM)  
+  - CMVS-PMVS; [[Website]](https://github.com/pmoulon/CMVS-PMVS)  
+  - Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021, Best Student Paper Award); [[Website]](https://github.com/cvg/pixel-perfect-sfm)  
+
 
 
 # 2 Instance and Semantic Segmentation <a name="2"></a>   
