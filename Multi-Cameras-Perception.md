@@ -23,9 +23,11 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - Scalability in Perception for Autonomous Driving: Waymo Open Dataset; [[Paper]](https://arxiv.org/pdf/1912.04838.pdf) [[Project]](https://waymo.com/open/) 
   
 ## 1.2 Lane Segmentation<a name="1.2"></a>  
- - PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)
- - Spatial As Deep: Spatial CNN for Traffic Scene Understanding; [[Paper]](https://arxiv.org/pdf/1712.06080.pdf) [[Project]](https://xingangpan.github.io/projects/CULane.html)
- - tusimple benchmark; [[Project]](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)
+ - PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)  
+ - Spatial As Deep: Spatial CNN for Traffic Scene Understanding; [[Paper]](https://arxiv.org/pdf/1712.06080.pdf) [[Project]](https://xingangpan.github.io/projects/CULane.html)  
+ - tusimple benchmark; [[Project]](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)   
+ - ONCE-3DLanes: Building Monocular 3D Lane Detection; [[Paper]](https://arxiv.org/pdf/2205.00301.pdf) [[Project]](https://once-3dlanes.github.io/)  
+ - GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation ; [[Paper]](https://arxiv.org/pdf/2204.07733.pdf) 
 
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a>  
@@ -36,6 +38,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    - BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs; [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
    - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
+   - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)
  
 # 3 Road Markers Detection <a name="3"></a>   
 ## 3.1 Lanes Segmentation<a name="3.1"></a>   
