@@ -52,6 +52,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
+   - Exploiting Temporal Relations on Radar Perception for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2204.01184.pdf)  
     
    
 
