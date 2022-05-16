@@ -38,9 +38,12 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    - BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs; [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
    - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
    - FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras; [[Paper]](https://arxiv.org/pdf/2104.10490.pdf)[[Project]](https://github.com/wayveai/fiery) 
-   - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)
+   - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)  
+   - End-to-end Birds-eye-view Flow Estimation for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2008.01179.pdf)  
+   - Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images; [[Project]](http://panoptic-bev.cs.uni-freiburg.de/#main)  [[Code]](https://github.com/robot-learning-freiburg/PanopticBEV)  
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
+   - BEV-MODNet: Monocular Camera based Bird’s Eye View Moving Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2107.04937.pdf)  [[Project]](https://sites.google.com/view/bev-modnet)   
    
 
  
