@@ -28,7 +28,13 @@ This repository provides an up-to-date list of techniques used for autolabeling 
  - tusimple benchmark; [[Project]](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)
 
 # 2 3D Obstacles Detection <a name="2"></a>   
-## 2.1 Bird's-Eye-View Based<a name="2.1"></a>   
+## 2.1 Bird's-Eye-View Based<a name="2.1"></a>  
+  - M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
+  - HFT: Lifting Perspective Representations via Hybrid Feature Transformation; [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Project]](https://github.com/JiayuZou2020/HFT) 
+  - BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf)[[Project]](https://github.com/zhiqi-li/BEVFormer)
+  - PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)
+   - BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs; [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
+   - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
  
 # 3 Road Markers Detection <a name="3"></a>   
