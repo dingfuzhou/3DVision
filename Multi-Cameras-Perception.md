@@ -27,7 +27,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
  - Spatial As Deep: Spatial CNN for Traffic Scene Understanding; [[Paper]](https://arxiv.org/pdf/1712.06080.pdf) [[Project]](https://xingangpan.github.io/projects/CULane.html)  
  - tusimple benchmark; [[Project]](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)   
  - ONCE-3DLanes: Building Monocular 3D Lane Detection; [[Paper]](https://arxiv.org/pdf/2205.00301.pdf) [[Project]](https://once-3dlanes.github.io/)  
- - GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation ; [[Paper]](https://arxiv.org/pdf/2204.07733.pdf) 
+ 
 
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a>  
@@ -42,6 +42,14 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    - End-to-end Birds-eye-view Flow Estimation for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2008.01179.pdf)  
    - Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images; [[Project]](http://panoptic-bev.cs.uni-freiburg.de/#main)  [[Code]](https://github.com/robot-learning-freiburg/PanopticBEV)  
    - BEV-MODNet: Monocular Camera based Bird’s Eye View Moving Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2107.04937.pdf)  [[Project]](https://sites.google.com/view/bev-modnet)  
+   - StretchBEV: Stretching Future Instance Prediction Spatially and Temporally; [[Paper]](https://arxiv.org/pdf/2203.13641.pdf)  [[Project]](https://sites.google.com/view/bev-modnet)  
+   -  GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation ; [[Paper]](https://arxiv.org/pdf/2204.07733.pdf) 
+   -  Translating Images into Maps; [[Paper]](https://arxiv.org/pdf/2110.00966.pdf) 
+   -  Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images; [[Paper]](https://arxiv.org/pdf/2110.01997.pdf) [[Project]](https://github.com/ybarancan/STSU)  
+
+
+
+
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
     
