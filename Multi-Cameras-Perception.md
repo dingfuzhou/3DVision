@@ -4,15 +4,15 @@ This repository provides an up-to-date list of techniques used for autolabeling 
  
 =============================
 # Table of contents
-1. [3D Reconstruction Techniques](#1)  
-    1.1 [SLAM Techniques](#1.1)  
+1. [3D Obstacles Detection](#1)  
+    1.1 [Bird's-Eye-View Based](#1.1)  
     1.2 [Structure from Motion](#1.2)    
-2. [Instance and Semantic Segmentation](#2)  
+2. [Road Markers Detection](#2)  
 	2.1 [Datasets](#2.1)  
 	2.2 [Instance Segmentation](#2.2)  
 	2.3 [Semantic Segmentation](#2.3)   
 	2.4 [Video-based Approaches](#2.4)  
-3. [Online/Offline HD Map Construction](#3)  
+3. [Others Perception](#3)  
 	3.1 [Lane-based SLAM](#3.1)  
 	3.2 [Lane marks Detection](#3.2)  
 	3.3 [Road Reconstruction](#3.3)  
