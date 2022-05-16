@@ -46,6 +46,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    -  GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation ; [[Paper]](https://arxiv.org/pdf/2204.07733.pdf) 
    -  Translating Images into Maps; [[Paper]](https://arxiv.org/pdf/2110.00966.pdf) 
    -  Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images; [[Paper]](https://arxiv.org/pdf/2110.01997.pdf) [[Project]](https://github.com/ybarancan/STSU)  
+   -  MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection; [[Paper]](https://arxiv.org/pdf/2205.05979.pdf)  
 
 
 
