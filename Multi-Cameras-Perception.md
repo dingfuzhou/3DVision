@@ -41,9 +41,10 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)  
    - End-to-end Birds-eye-view Flow Estimation for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2008.01179.pdf)  
    - Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images; [[Project]](http://panoptic-bev.cs.uni-freiburg.de/#main)  [[Code]](https://github.com/robot-learning-freiburg/PanopticBEV)  
+   - BEV-MODNet: Monocular Camera based Bird’s Eye View Moving Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2107.04937.pdf)  [[Project]](https://sites.google.com/view/bev-modnet)  
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
-   - BEV-MODNet: Monocular Camera based Bird’s Eye View Moving Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2107.04937.pdf)  [[Project]](https://sites.google.com/view/bev-modnet)   
+    
    
 
  
