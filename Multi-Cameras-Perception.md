@@ -37,9 +37,11 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)
    - BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs; [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
    - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
+   - FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras; [[Paper]](https://arxiv.org/pdf/2104.10490.pdf)[[Project]](https://github.com/wayveai/fiery) 
+   - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
-   - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)
+   
 
  
 # 3 Road Markers Detection <a name="3"></a>   
