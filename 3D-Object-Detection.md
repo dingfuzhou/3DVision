@@ -51,7 +51,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
 
 
 ## 1.2 Voxel based<a name="1.2"></a>  
-  - Voxel based 3D object detections  
+  - 2022.PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
 
 ## 1.3 Range Image based<a name="1.3"></a>  
   - RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds; [[Paper]](https://arxiv.org/pdf/2205.01570.pdf)  
