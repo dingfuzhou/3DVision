@@ -46,17 +46,29 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Open-set 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.01135.pdf) 
   - ORDER: Open World Object Detectionon Road Scenes; [[Paper]](https://ml4ad.github.io/files/papers2021/ORDER:%20Open%20World%20Object%20Detection%20on%20Road%20Scenes.pdf) 
   - Towards Open-Set Object Detection and Discovery; [[Paper]](https://arxiv.org/pdf/2204.05604.pdf) 
+  - 2022 RBGNet: Ray-based Grouping for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2204.02251.pdf) [[Code]](https://github.com/Haiyang-W/RBGNet) 
+  - 2019 Deep Hough Voting for 3D Object Detection in Point Clouds; [[Paper]](https://arxiv.org/pdf/1904.09664.pdf) [[Code]](https://github.com/facebookresearch/votenet) 
+  - 2019 Fast Point R-CNN; [[Paper]](https://arxiv.org/pdf/1908.02990.pdf)
   
  
 
 
 ## 1.2 Voxel based<a name="1.2"></a>  
-  - 2022.PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
+  - 2022. PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
   - 2021. PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2102.00463.pdf) [[Code]](https://github.com/open-mmlab/OpenPCDet) 
   - 2021. BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
   - 2021 DV-Det: Efficient 3D Point Cloud Object Detection with Dynamic Voxelization [[Paper]](https://arxiv.org/pdf/2107.12707.pdf)  
   - 2021 Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud; [[Paper]](https://arxiv.org/pdf/2108.03634.pdf) [[Code]]( https://github.com/jialeli1/MGAF-3DSSD) 
-  - Improved Pillar with Fine-grained Feature for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2110.06049.pdf)
+  - 2021 Improved Pillar with Fine-grained Feature for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2110.06049.pdf)  
+  - 2021 FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.00322.pdf) [[Code]]( https://github.com/samsunglabs/fcaf3d)  
+  - 2021 PiFeNet: Pillar-Feature Network for Real-Time 3D Pedestrian Detection from Point Cloud; [[Paper]](https://arxiv.org/abs/2112.15458) 
+  - 2021 Point Density-Aware Voxels for LiDAR 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05662.pdf) 
+  - 2019 STD: Sparse-to-Dense 3D Object Detector for Point Cloud; [[Paper]](https://arxiv.org/pdf/1907.10471.pdf) 
+  - 2021 PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/1912.13192.pdf) 
+  - 2021 Center-based 3D Object Detection and Tracking; [[Paper]](https://arxiv.org/pdf/2006.11275.pdf) [[Code]](https://github.com/tianweiy/CenterPoint) 
+  - 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf)  
+  - 2020 Dynamic Edge Weights in Graph Neural Networks for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2009.08253.pdf)  
+  - 2020 CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2012.03015.pdf) [[Code]](https://github.com/Vegeta2020/CIA-SSD) 
 
 ## 1.3 Range Image based<a name="1.3"></a>  
   - RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds; [[Paper]](https://arxiv.org/pdf/2205.01570.pdf)  
@@ -72,6 +84,9 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds; [[Paper]](https://arxiv.org/pdf/2203.01730.pdf) [[Code]](https://github.com/Ghostish/Open3DSOT)
   - TPCN: Temporal Point Cloud Networks for Motion Forecasting; [[Paper]](https://arxiv.org/pdf/2103.03067.pdf)
   - PointTrackNet: An End-to-End Network for 3-D Object Detection and Tracking from Point Clouds; [[Paper]](https://arxiv.org/pdf/2002.11559.pdf) 
+  - AB3DMOT: A Baseline for 3D Multi-Object Tracking and New Evaluation Metrics; [[Paper]](https://arxiv.org/pdf/2008.08063.pdf) [[Code]](https://www.xinshuoweng.com/projects/AB3DMOT/)  
+
+
  ## 1.5 Graph based<a name="1.5"></a>  
   - Grid-GCN for Fast and Scalable Point Cloud Learning; [[Paper]](https://arxiv.org/pdf/1912.02984.pdf) [[Code]](https://github.com/Xharlie/Grid-GCN)
   - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud; [[Paper]](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code]](https://github.com/WeijingShi/Point-GNN)
