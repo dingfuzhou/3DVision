@@ -64,7 +64,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - 2019 STD: Sparse-to-Dense 3D Object Detector for Point Cloud; [[Paper]](https://arxiv.org/pdf/1907.10471.pdf) 
   - 2021 PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/1912.13192.pdf) 
   - 2021 Center-based 3D Object Detection and Tracking; [[Paper]](https://arxiv.org/pdf/2006.11275.pdf) [[Code]](https://github.com/tianweiy/CenterPoint) 
-  - 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf)  
+  - 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf) 
+  - 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
   - 2020 Dynamic Edge Weights in Graph Neural Networks for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2009.08253.pdf)  
   - 2020 CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2012.03015.pdf) [[Code]](https://github.com/Vegeta2020/CIA-SSD) 
 
