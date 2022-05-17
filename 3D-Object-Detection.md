@@ -50,10 +50,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - 2019 Deep Hough Voting for 3D Object Detection in Point Clouds; [[Paper]](https://arxiv.org/pdf/1904.09664.pdf) [[Code]](https://github.com/facebookresearch/votenet) 
   - 2019 Fast Point R-CNN; [[Paper]](https://arxiv.org/pdf/1908.02990.pdf)
   
- 
 
-
-## 1.2 Voxel based<a name="1.2"></a>  
+## 1.2 Voxel based<a name="1.2"></a>    
   - 2022. PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
   - 2021. PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2102.00463.pdf) [[Code]](https://github.com/open-mmlab/OpenPCDet) 
   - 2021. BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
