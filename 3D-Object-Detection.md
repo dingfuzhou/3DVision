@@ -52,10 +52,10 @@ This repository provides an up-to-date list of 3D Object Detection works.
   
 
 ## 1.2 Voxel based<a name="1.2"></a>    
-  - 2022. PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
-  - 2021. PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2102.00463.pdf) [[Code]](https://github.com/open-mmlab/OpenPCDet) 
-  - 2021. BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
-  - 2021 DV-Det: Efficient 3D Point Cloud Object Detection with Dynamic Voxelization [[Paper]](https://arxiv.org/pdf/2107.12707.pdf)  
+  - 2022 PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
+  - 2021 PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2102.00463.pdf) [[Code]](https://github.com/open-mmlab/OpenPCDet)  
+  - 2021 BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)   
+  - 2021 DV-Det:Efficient 3D Point Cloud Object Detection with Dynamic Voxelization [[Paper]](https://arxiv.org/pdf/2107.12707.pdf)  
   - 2021 Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud; [[Paper]](https://arxiv.org/pdf/2108.03634.pdf) [[Code]]( https://github.com/jialeli1/MGAF-3DSSD) 
   - 2021 Improved Pillar with Fine-grained Feature for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2110.06049.pdf)  
   - 2021 FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2112.00322.pdf) [[Code]]( https://github.com/samsunglabs/fcaf3d)  
