@@ -52,6 +52,11 @@ This repository provides an up-to-date list of 3D Object Detection works.
 
 ## 1.2 Voxel based<a name="1.2"></a>  
   - 2022.PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
+  - 2021. PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2102.00463.pdf) [[Code]](https://github.com/open-mmlab/OpenPCDet) 
+  - 2021. BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
+  - 2021 DV-Det: Efficient 3D Point Cloud Object Detection with Dynamic Voxelization [[Paper]](https://arxiv.org/pdf/2107.12707.pdf)  
+  - 2021 Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud; [[Paper]](https://arxiv.org/pdf/2108.03634.pdf) [[Code]]( https://github.com/jialeli1/MGAF-3DSSD) 
+  - Improved Pillar with Fine-grained Feature for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2110.06049.pdf)
 
 ## 1.3 Range Image based<a name="1.3"></a>  
   - RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds; [[Paper]](https://arxiv.org/pdf/2205.01570.pdf)  
@@ -70,7 +75,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
  ## 1.5 Graph based<a name="1.5"></a>  
   - Grid-GCN for Fast and Scalable Point Cloud Learning; [[Paper]](https://arxiv.org/pdf/1912.02984.pdf) [[Code]](https://github.com/Xharlie/Grid-GCN)
   - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud; [[Paper]](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code]](https://github.com/WeijingShi/Point-GNN)
-  - Dynamic Graph CNN for Learning on Point Clouds; [[Paper]](https://arxiv.org/pdf/1801.07829.pdf) [[Code]](https://github.com/WangYueFt/dgcnn)
+  - Dynamic Graph CNN for Learning on Point Clouds; [[Paper]](https://arxiv.org/pdf/1801.07829.pdf) [[Code]](https://github.com/WangYueFt/dgcnn)  
+  - 2021 Probabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2012.13755.pdf)
 
 ## 1.6 Ground Plane Detection<a name="1.6"></a>    
   - GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles; [[Paper]](https://hal.inria.fr/hal-02927350/document) [[Code]](https://github.com/anshulpaigwar/GndNet)
