@@ -10,6 +10,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
     1.4 [Detection and Tracking](#1.4)  
     1.5 [Graph based](#1.5)  
     1.6 [Ground Plane Detection](#1.6)  
+    1.7 [Fast Object Detection](#1.7)  
 2. [Camera based 3D Object Detection](#2)  
 	2.1 [xxxxxx](#2.1)  
 	2.2  [xxxxxx](#2.2)  
@@ -92,11 +93,18 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - Dynamic Graph CNN for Learning on Point Clouds; [[Paper]](https://arxiv.org/pdf/1801.07829.pdf) [[Code]](https://github.com/WangYueFt/dgcnn)  
   - 2021 Probabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2012.13755.pdf)
 
-## 1.6 Ground Plane Detection<a name="1.6"></a>    
-  - GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles; [[Paper]](https://hal.inria.fr/hal-02927350/document) [[Code]](https://github.com/anshulpaigwar/GndNet)
+## 1.6 Ground Plane Detection<a name="1.6"></a>  
+- GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles; [[Paper]](https://hal.inria.fr/hal-02927350/document) [[Code]](https://github.com/anshulpaigwar/GndNet)
   - How to Build a Curb Dataset with LiDAR Data for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2110.03968.pdf) [[Dataset]](https://download.mindspore.cn/)
   - CurbScan: Curb Detection and Tracking Using Multi-Sensor Fusion; [[Paper]](https://arxiv.org/pdf/2010.04837.pdf) [[Dataset]](https://download.mindspore.cn/)
   - Lidar-histogram for fast road and obstacle detection; [[Paper]](https://ieeexplore.ieee.org/document/7989159)
+
+## 1.7 Fast Object Detection<a name="1.7"></a>   
+- 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf)  
+- 2021 Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness; [[Paper]](https://arxiv.org/pdf/2107.14342.pdf)   
+- 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
+
+  
 
 
 
