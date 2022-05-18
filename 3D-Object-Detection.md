@@ -105,3 +105,5 @@ This repository provides an up-to-date list of 3D Object Detection works.
 - 2021 Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness; [[Paper]](https://arxiv.org/pdf/2107.14342.pdf)   
 - 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
 - 2022 PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
+- 2021 RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_RSN_Range_Sparse_Net_for_Efficient_Accurate_LiDAR_3D_Object_CVPR_2021_paper.pdf)  
+- 2021 HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.pdf)
