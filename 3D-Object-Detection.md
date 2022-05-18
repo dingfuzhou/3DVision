@@ -101,12 +101,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
 
 ## 1.7 Fast Object Detection<a name="1.7"></a>   
 - 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf)  
+- 2020 CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2012.03015.pdf) [[Code]](https://github.com/Vegeta2020/CIA-SSD) 
 - 2021 Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness; [[Paper]](https://arxiv.org/pdf/2107.14342.pdf)   
 - 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
-
-  
-
-
-
-
-  
+- 2022 PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
