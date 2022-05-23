@@ -99,15 +99,15 @@ This repository provides an up-to-date list of 3D Object Detection works.
   - CurbScan: Curb Detection and Tracking Using Multi-Sensor Fusion; [[Paper]](https://arxiv.org/pdf/2010.04837.pdf) [[Dataset]](https://download.mindspore.cn/)
   - Lidar-histogram for fast road and obstacle detection; [[Paper]](https://ieeexplore.ieee.org/document/7989159)
 
-## 1.7 Fast Object Detection<a name="1.7"></a>   
+## 1.7 Fast Object Detection<a name="1.7"></a>  
+- 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
+- 2022 PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf) 
+- 2021 Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness; [[Paper]](https://arxiv.org/pdf/2107.14342.pdf)   
 - 2020 AFDet: Anchor Free One Stage 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2006.12671.pdf)  
 - 2020 CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud; [[Paper]](https://arxiv.org/pdf/2012.03015.pdf) [[Code]](https://github.com/Vegeta2020/CIA-SSD) 
 - 2021 1 st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation; [[Paper]](https://arxiv.org/pdf/2006.15505.pdf) 
 - 2021 CenterPoint: Center-based 3D Object Detection and Tracking; [[Paper]](https://arxiv.org/pdf/2006.11275.pdf)  [[Code]](https://github.com/tianweiy/CenterPoint/tree/master) [[TensorRT implementation]](https://github.com/Abraham423/CenterPoint) [[ONNX and TensorRT]](https://github.com/CarkusL/CenterPoint) 
 - 2021 CenterPoint++ submission to the Waymo Real-time 3D Detection Challenge; [[Paper]](https://drive.google.com/file/d/1wG1zPc2PyWgBIC-dLSFbxzeZ3FhA708_/view) [[Code]](https://github.com/tianweiy/CenterPoint/tree/new_release) 
-- 2021 Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness; [[Paper]](https://arxiv.org/pdf/2107.14342.pdf)   
-- 2022 AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds; [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-3350.HuY.pdf) 
-- 2022 PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2205.07403.pdf)  
 - 2021 RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_RSN_Range_Sparse_Net_for_Efficient_Accurate_LiDAR_3D_Object_CVPR_2021_paper.pdf)  
 - 2021 HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.pdf)
 - SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_SRDAN_Scale-Aware_and_Range-Aware_Domain_Adaptation_Network_for_Cross-Dataset_3D_CVPR_2021_paper.pdf)
