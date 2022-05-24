@@ -112,7 +112,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
 - 2021 HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.pdf)
 - 2021 SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_SRDAN_Scale-Aware_and_Range-Aware_Domain_Adaptation_Network_for_Cross-Dataset_3D_CVPR_2021_paper.pdf)
 - 2021 PointAugmenting: Cross-Modal Augmentation for 3D Object Detection; [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PointAugmenting_Cross-Modal_Augmentation_for_3D_Object_Detection_CVPR_2021_paper.pdf) 
-- BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
-- RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2103.10039.pdf)
+- 2021 BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
+- 2021 RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2103.10039.pdf)
 
 
