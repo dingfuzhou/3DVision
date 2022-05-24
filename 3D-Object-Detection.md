@@ -116,3 +116,6 @@ This repository provides an up-to-date list of 3D Object Detection works.
 - 2021 RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2103.10039.pdf)
 
 
+https://github.com/beedotkiran/Lidar_For_AD_references
+
+
