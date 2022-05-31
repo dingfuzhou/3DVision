@@ -31,7 +31,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a> 
-  - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf)  
+  - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) 
+  - 2022 BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2205.13542.pdf)  [[Paper]](https://bevfusion.mit.edu/)
   - 2022 Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf)
   - M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
   - HFT: Lifting Perspective Representations via Hybrid Feature Transformation; [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Project]](https://github.com/JiayuZou2020/HFT) 
