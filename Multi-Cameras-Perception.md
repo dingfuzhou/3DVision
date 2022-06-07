@@ -52,8 +52,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    -  MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection; [[Paper]](https://arxiv.org/pdf/2205.05979.pdf)  
 
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
-   - 2022 MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
-   - Exploiting Temporal Relations on Radar Perception for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2204.01184.pdf)  
+    - 2022 MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
+    - Exploiting Temporal Relations on Radar Perception for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2204.01184.pdf)  
     - 2022 BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2205.13542.pdf)  [[Project]](https://bevfusion.mit.edu/)  
     - 2022 BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework; [[Paper]](https://arxiv.org/abs/2205.13790) [[Project]](https://github.com/ADLab-AutoDrive/BEVFusion) 
     - 2022 Unifying Voxel-based Representation with Transformer for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2206.00630.pdf) [[Project]](https://github.com/dvlab-research/UVTR) 
