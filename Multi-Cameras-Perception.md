@@ -31,15 +31,15 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a> 
-  - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) 
-  - 2022 BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2205.13542.pdf)  [[Paper]](https://bevfusion.mit.edu/)
+  - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) [[Project]](https://github.com/zhangyp15/BEVerse)
   - 2022 Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf)
   - M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
   - HFT: Lifting Perspective Representations via Hybrid Feature Transformation; [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Project]](https://github.com/JiayuZou2020/HFT) 
-  - BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf)[[Project]](https://github.com/zhiqi-li/BEVFormer)
+  - BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf) [[Project]](https://github.com/zhiqi-li/BEVFormer)
   - PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)
    - BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs; [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
-   - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
+   - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf) [[Project]](https://github.com/HuangJunJie2017/BEVDet) 
+   - BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.17054.pdf) [[Project]](https://github.com/HuangJunJie2017/BEVDet) 
    - FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras; [[Paper]](https://arxiv.org/pdf/2104.10490.pdf)[[Project]](https://github.com/wayveai/fiery) 
    - HDMapNet: An Online HD Map Construction and Evaluation Framework; [[Paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Project]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)  
    - End-to-end Birds-eye-view Flow Estimation for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2008.01179.pdf)  
@@ -51,16 +51,13 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    -  Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images; [[Paper]](https://arxiv.org/pdf/2110.01997.pdf) [[Project]](https://github.com/ybarancan/STSU)  
    -  MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection; [[Paper]](https://arxiv.org/pdf/2205.05979.pdf)  
 
-
-
-
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
-   - MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
+   - 2022 MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
    - Exploiting Temporal Relations on Radar Perception for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2204.01184.pdf)  
+    - 2022 BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2205.13542.pdf)  [[Project]](https://bevfusion.mit.edu/)  
+    - 2022 BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework; [[Paper]](https://arxiv.org/abs/2205.13790) [[Project]](https://github.com/ADLab-AutoDrive/BEVFusion) 
+    - 2022 Unifying Voxel-based Representation with Transformer for 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2206.00630.pdf) [[Project]](https://github.com/dvlab-research/UVTR) 
     
-   
-
- 
 # 3 Road Markers Detection <a name="3"></a>   
 ## 3.1 Lanes Segmentation<a name="3.1"></a>   
 ## 3.2 Lights and other Signs Detection<a name="3.2"></a>   
