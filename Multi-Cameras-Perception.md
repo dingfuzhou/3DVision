@@ -50,6 +50,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
    -  Translating Images into Maps; [[Paper]](https://arxiv.org/pdf/2110.00966.pdf) 
    -  Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images; [[Paper]](https://arxiv.org/pdf/2110.01997.pdf) [[Project]](https://github.com/ybarancan/STSU)  
    -  MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection; [[Paper]](https://arxiv.org/pdf/2205.05979.pdf)  
+   -  CVPR 2021 Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf) 
+   -  ICCV 2021 NEAT: Neural Attention Fields for End-to-End Autonomous Driving;   [[Paper]]( [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)) [[Project]](https://github.com/autonomousvision/neat)
 
 ## 2.2 Multi-Modals Fusion<a name="2.2"></a>   
    - 2022 MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data; [[Paper]](https://arxiv.org/pdf/2104.10772.pdf)  
