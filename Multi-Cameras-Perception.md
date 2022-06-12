@@ -6,7 +6,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 # Table of contents
 1.  [DataSets and Benchmarks](#1)  
     1.1 [3D ObjectS Detection](#1.1)  
-    1.2 [Lane Segmentation](#1.2)    
+    1.2 [Lane Segmentation](#1.2)
+    1.3 [Auxiliary Tasks](#1.3)   
 2. [3D Obstacles Detection](#2)  
     2.1 [Bird's-Eye-View Based](#2.1)  
     2.2 [Multi-Modals Fusion](#2.2)    
@@ -27,12 +28,12 @@ This repository provides an up-to-date list of techniques used for autolabeling 
  - Spatial As Deep: Spatial CNN for Traffic Scene Understanding; [[Paper]](https://arxiv.org/pdf/1712.06080.pdf) [[Project]](https://xingangpan.github.io/projects/CULane.html)  
  - tusimple benchmark; [[Project]](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)   
  - ONCE-3DLanes: Building Monocular 3D Lane Detection; [[Paper]](https://arxiv.org/pdf/2205.00301.pdf) [[Project]](https://once-3dlanes.github.io/)  
- 
-
+## 1.3 Auxiliary Tasks <a name="1.3"></a> 
+ - Is Pseudo-Lidar needed for Monocular 3D Object detection? ; [[Paper]](https://arxiv.org/pdf/2108.06417.pdf) [[Project]](https://github.com/TRI-ML/dd3d)  
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a> 
   - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) [[Project]](https://github.com/zhangyp15/BEVerse)
-  - 2022 Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf) [[Paper]](https://github.com/bradyz/cross_view_transformers)
+  - 2022 CVPR Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf) [[Paper]](https://github.com/bradyz/cross_view_transformers)
   - M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
   - HFT: Lifting Perspective Representations via Hybrid Feature Transformation; [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Project]](https://github.com/JiayuZou2020/HFT) 
   - BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf) [[Project]](https://github.com/zhiqi-li/BEVFormer)
