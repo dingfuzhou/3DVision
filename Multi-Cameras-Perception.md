@@ -38,7 +38,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - 2022 CVPR Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf) [[Project]](https://github.com/bradyz/cross_view_transformers)  
   - 2021 BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf) [[Project]](https://github.com/HuangJunJie2017/BEVDet) 
   - 2022 BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.17054.pdf) [[Project]](https://github.com/HuangJunJie2017/BEVDet) 
-  - BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf) [[Project]](https://github.com/zhiqi-li/BEVFormer)
+  - 2022 BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers; [[Paper]](https://arxiv.org/pdf/2203.17270.pdf) [[Project]](https://github.com/zhiqi-li/BEVFormer)
   - 2022 PETR: Position Embedding Transformation for Multi-View 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05625.pdf) [[Project]](https://github.com/megvii-research/PETR)  
   - 2022 PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images; [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Project]](https://github.com/megvii-research/PETR)  
   - M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
