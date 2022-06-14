@@ -43,6 +43,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
   - 2022 PETR: Position Embedding Transformation for Multi-View 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2203.05625.pdf) [[Project]](https://github.com/megvii-research/PETR)  
   - 2022 PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images; [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Project]](https://github.com/megvii-research/PETR)  
   - 2022 M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation; [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://xieenze.github.io/projects/m2bev/) 
+  - 2020 ECCV Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[Paper]](https://arxiv.org/pdf/2008.05711.pdf) [[Project]](https://github.com/nv-tlabs/lift-splat-shoot) 
   - HFT: Lifting Perspective Representations via Hybrid Feature Transformation; [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Project]](https://github.com/JiayuZou2020/HFT) 
   - 2021 FIERY: Future Instance Prediction in Bird’s-Eye View from Surround Monocular Cameras; [[Paper]](https://arxiv.org/pdf/2104.10490.pdf) [[Project]](https://github.com/wayveai/fiery) 
   - 2022 PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark; [[Paper]](https://arxiv.org/pdf/2203.11089.pdf) [[Project]](https://github.com/OpenPerceptionX/PersFormer_3DLane) [[Datasets]](https://github.com/OpenPerceptionX/OpenLane)
