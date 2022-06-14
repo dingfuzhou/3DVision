@@ -34,6 +34,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 
 # 2 3D Obstacles Detection <a name="2"></a>   
 ## 2.1 Bird's-Eye-View Based<a name="2.1"></a> 
+  - 2022 Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer; [[Paper]](https://arxiv.org/pdf/2206.04584.pdf)
   - 2022 BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) [[Project]](https://github.com/zhangyp15/BEVerse)
   - 2022 CVPR Cross-view Transformers for real-time Map-view Semantic Segmentation; [[Paper]](http://www.philkr.net/media/zhou2022crossview.pdf) [[Project]](https://github.com/bradyz/cross_view_transformers)  
   - 2021 BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View; [[Paper]](https://arxiv.org/pdf/2112.11790.pdf) [[Project]](https://github.com/HuangJunJie2017/BEVDet) 
