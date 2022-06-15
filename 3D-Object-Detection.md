@@ -11,6 +11,7 @@ This repository provides an up-to-date list of 3D Object Detection works.
     1.5 [Graph based](#1.5)  
     1.6 [Ground Plane Detection](#1.6)  
     1.7 [Fast Object Detection](#1.7)  
+    1.8.[Evaluation Metric](#1.8)  
 2. [Camera based 3D Object Detection](#2)  
 	2.1 [xxxxxx](#2.1)  
 	2.2  [xxxxxx](#2.2)  
@@ -19,6 +20,8 @@ This repository provides an up-to-date list of 3D Object Detection works.
 	3.1 [xxxxx](#3.1)  
 	3.2 [xxxxx](#3.2)  
 	3.3 [xxxxx](#3.3)  
+ 
+ 
 
 
 ----------------------------------
@@ -116,6 +119,12 @@ This repository provides an up-to-date list of 3D Object Detection works.
 - 2021 BEVDetNet: Bird’s Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving; [[Paper]](https://arxiv.org/pdf/2104.10780.pdf)  
 - 2021 RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection; [[Paper]](https://arxiv.org/pdf/2103.10039.pdf)  
 - End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds; [[Paper]](https://arxiv.org/pdf/1910.06528.pdf) 
+
+## 1.8 Evaluation Metric<a name="1.8"></a>  
+- 2020 Learning to Evaluate Perception Models Using Planner-Centric Metrics; [[Paper]](https://arxiv.org/pdf/2004.08745.pdf) 
+- 2021 The efficacy of Neural Planning Metrics: A meta-analysis of PKL on nuScenes; [[Paper]](https://arxiv.org/pdf/2010.09350.pdf)  
+- 2021 Revisiting 3D Object Detection From an Egocentric Perspective; [[Paper]](https://arxiv.org/pdf/2112.07787.pdf)  
+- 2020 nuScenes: A multimodal dataset for autonomous driving; [[Paper]](https://arxiv.org/pdf/1903.11027.pdf) 
 
 
 https://github.com/beedotkiran/Lidar_For_AD_references
