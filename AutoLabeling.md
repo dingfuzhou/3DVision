@@ -27,6 +27,7 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 # 1. 3D Reconstruction Techniques <a name="1"></a>  
 ## 1.1 SLAM Techniques<a name="1.1"></a>
   - VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots; [[Paper]](https://arxiv.org/pdf/2107.07243.pdf) [[Project]](https://ori.ox.ac.uk/labs/drs/vilens-tightly-fused-multi-sensor-odometry/) 
+  - 无人车业务中的视觉三维重建 [[Website]](https://cloud.tencent.com/developer/article/1896268)
   
  
 ## 1.2 Structure from Motion<a name="1.2"></a>  
