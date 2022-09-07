@@ -14,6 +14,9 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 3. [Road Markers Detection](#3)  
     3.1 [Lanes Segmentation](#3.1)  
     3.2 [Lights and other Signs Detection](#3.2)  
+4. [Multi-objects Tracking](#3)  
+    3.1 [Objects Tracking](#3.1)  
+    
 
 ----------------------------------
 # 1. DataSets and Benchmarks <a name="1"></a>  
