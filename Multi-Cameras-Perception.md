@@ -14,8 +14,8 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 3. [Road Markers Detection](#3)  
     3.1 [Lanes Segmentation](#3.1)  
     3.2 [Lights and other Signs Detection](#3.2)  
-4. [Multi-objects Tracking](#3)  
-    3.1 [Objects Tracking](#3.1)  
+4. [Multi-objects Tracking](#4)  
+    4.1 [Multi-objects Tracking](#4.1)  
     
 
 ----------------------------------
@@ -75,6 +75,9 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 # 3 Road Markers Detection <a name="3"></a>   
 ## 3.1 Lanes Segmentation<a name="3.1"></a>   
 ## 3.2 Lights and other Signs Detection<a name="3.2"></a>   
+
+# 4 Multi-objects Tracking <a name="4"></a>   
+## 3.1 Multi-objects Tracking <a name="4.1"></a>   
 
 
  
