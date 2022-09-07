@@ -77,7 +77,12 @@ This repository provides an up-to-date list of techniques used for autolabeling 
 ## 3.2 Lights and other Signs Detection<a name="3.2"></a>   
 
 # 4 Multi-objects Tracking <a name="4"></a>   
-## 3.1 Multi-objects Tracking <a name="4.1"></a>   
-
+## 4.1 Multi-objects Tracking <a name="4.1"></a>   
+- 2022 Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer; [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Project]](https://github.com/Jasonkks/PTTR)
+- 2022 Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving; [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Time3D_End-to-End_Joint_Monocular_3D_Object_Detection_and_Tracking_for_CVPR_2022_paper.pdf)
+- 2022 3D Object Tracking with Transformer; [[Paper]](https://www.bmvc2021-virtualconference.com/assets/papers/1445.pdf) [[Project]](https://github.com/3bobo/lttr)
+- 2022 TrackFormer: Multi-Object Tracking with Transformers; [[Paper]](https://arxiv.org/pdf/2101.02702.pdf) [[Project]](https://github.com/timmeinhardt/trackformer)
+- 2022 MOTR: End-to-End Multiple-Object Tracking with Transformer; [[Paper]](https://arxiv.org/pdf/2105.03247.pdf) [[Project]](https://github.com/megvii-research/MOTR)
+- 2022 TransTrack: Multiple Object Tracking with Transformer; [[Paper]](https://arxiv.org/pdf/2012.15460.pdf) [[Project]](https://github.com/PeizeSun/TransTrack)
 
  
